@@ -11,8 +11,6 @@ localtest2.m: MNIST的主程序。直接在localtest2.m里选择分类器。trai
 localtest3.m: 当MNIST显示内存不足时，用这个跑MNIST.
 当相对路径不成功时，在init.m;localtest.m;localtest2.m;localtest3.m中我都有path=''。请在引号内输入下载的hongyining文件夹所在的位置。
 
-运行时遇到任何问题，请联系我邮箱：evelinehong@sjtu.edu.cn 或添加微信：reticence-eve
-
 其他函数：
 训练函数：
 trainKNN.m
